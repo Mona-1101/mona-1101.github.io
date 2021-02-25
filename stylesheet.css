@@ -1,0 +1,84 @@
+body{
+    background-color: rgb(105,105,105);
+}
+
+.header{
+text-align: right;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.image{
+    height: 300px;
+    width: 300px;
+    border-width: 5px;
+    border-style: solid;
+    border-color:black;
+    
+}
+
+.right-align{
+    padding-top: 100px;
+    padding-left: 250px;
+}
+.text-align{
+ margin-bottom: 120px;
+}
+.name{
+    color: #F2F2F2;
+}
+.acad{
+    padding-top: 100px;
+    margin-left: 10%;
+    width: 80%;
+    margin-right: 10%;
+}
+.image-size{
+   
+    align-items: center;
+}
+.align{
+    background-color: white;
+    border-radius: 25px;
+
+}
+.border{
+    border-color: black;
+    border-width: 6px;
+}
+
+.interest{
+    padding-top: 100px;
+}
+.interest2{
+
+    margin-left: 10%;
+    width: 80%;
+    margin-right: 10%;
+}
+
+.home1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.home2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: beige;
+}
+.academics{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: bisque;
+}
+.school{
+    font-family: monospace;
+    color: gainsboro;
+}
+
+.course{
+    font-style: initial;
+    color:cornsilk;
+}
+
+.level{
+    font-family: sans-serif;
+}
